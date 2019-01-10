@@ -1,1 +1,1 @@
-# Captulo1---Javascript-Basic
+# Capitulo1---Javascript-Basic
